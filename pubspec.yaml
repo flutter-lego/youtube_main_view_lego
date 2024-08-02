@@ -1,7 +1,7 @@
 name: youtube_main_view_lego
-description: "lego is all you need"
+description: "beautify youtube main view"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/youtube_main_view_lego
 
 version: 1.0.0
 
