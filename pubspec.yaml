@@ -1,0 +1,36 @@
+name: youtube_main_view_lego
+description: "lego is all you need"
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/lego
+
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  june_flow_util: #@add
+  styled_widget: #@add
+  modal_bottom_sheet: #@add
+  gap: #@add
+  flutter_svg: #@add
+  keyboard_attachable:
+  flutter_zoom_drawer:
+  flutter_screenutil:
+  bot_toast:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+  youtube_bottom_navi_view_lego:
+
+flutter:
+  assets:
+    - assets/lego/youtube_main_view_lego/
+  uses-material-design: true
+
+topics:
+  - lego
